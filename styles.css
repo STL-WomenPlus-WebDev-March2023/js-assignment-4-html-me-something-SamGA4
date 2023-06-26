@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+header, h1, h2 {
+    text-align: center;
+}
+
+header, body, footer{
+    background-color:#c5d5e6;
+}
+
+.funParagraph {
+    color: #5e9726;
+}
+
+.articleHook {
+    text-align: center;
+}
+
+#mainHeading{
+    color: #b40000;
+}
+
+img, object {
+    margin: auto;
+    display: block;
+    width: 30%;
+}
+
+#altar{
+    margin: 100 auto;
+}
